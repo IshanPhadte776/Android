@@ -1,19 +1,5 @@
-Admin Credentials:  
-JayV@gmail.com
-JayVach12345#
+Meal ordering android application created using Java and Android Studio.
 
-Chef Credentials:
-CaptianMK@gmail.com
-Captain1234#
+Customer and Chefs can sign up and login while Admins can only login. Admin can view and action complaints about Customers. Chefs can view their profile, create/edit meals and action orders. Customers can view and order meals while also being able to submit complaints and ratings for the chefs.
 
-Customer Credentials:
-iphad083@uottawa.ca
-NotRealPWord56%
-
-Gmail for Firebase
-lucifer15102002@gmail.com
-1596374280  
-
-The above email will require 2 factor authentication, which will get sent to the following email address:  
-segengineers123@gmail.com  
-GROUP-nine123
+We also chose to include a unique animation on app launch. Back-end users and data is stored in a Firebase Realtime Database. Application can read, write to the database Implemented JUnit Test Cases to Test Login and Register Aspects
