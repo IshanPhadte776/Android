@@ -6,4 +6,4 @@ Customer and Chefs can sign up and login while Admins can only login. Admin can 
 We also chose to include a unique animation on app launch. Back-end users and data is stored in a Firebase Realtime Database. Application can read, write to the database Implemented JUnit Test Cases to Test Login and Register Aspects
 
 
-#Java #AndroidStudio #Firebase 
+#Java #AndroidStudio #Firebase #CircleCI
